@@ -1,4 +1,3 @@
-use crate::prelude::VirtualKeyCode::F;
 use crate::prelude::*;
 
 const FORTRESS: (&str, i32, i32) = (
